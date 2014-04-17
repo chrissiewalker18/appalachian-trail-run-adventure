@@ -1,5 +1,4 @@
 
-
 .landscapeimage {
 	height: 230px;
 	background-image: url('../img/landscape2.jpg');
@@ -102,12 +101,12 @@ p {
 }
 
 .googledoc {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	text-align: center;
 }
 
 .photos {
 	height: 500px;
 }
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 30px;
-	text-align: center;
