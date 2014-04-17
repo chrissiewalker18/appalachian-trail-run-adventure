@@ -1,35 +1,38 @@
-
 h1 {
-	font-family: Portmanteau, Arial, san-serif;
-	font-size: 16px;
+	font-family: 'Englebert', sans-serif;
+	font-size: 26px;
+	text-transform: uppercase;
 	line-height: .5em;
+	letter-spacing: .03em;
 	color: rgb(255,255,255);
 }
 
 h2 {
-	font-family: Portmanteau, Arial, san-serif;
-	font-size: 20px;
-	line-height: 1.5em;
-	color: rgb(69,85,96);
-}
-
-h3 {
-	font-family: Portmanteau, Arial, san-serif;
-	font-size: 16px;
-	line-height: 1.5em;
-	color: rgb(69,85,96);
-}
-
-h4 {
-	font-family: Portmanteau, Arial, san-serif;
-	font-size: 14px;
+	font-family: 'Englebert', sans-serif;
+	text-transform: uppercase;
+	font-size: 32px;
 	line-height: 1.5em;
 	color: rgb(245,128,36);
 }
 
+h3 {
+	font-family: 'Englebert', sans-serif;
+	text-transform: uppercase;
+	font-size: 26px;
+	line-height: 1.5em;
+	color: rgb(245,128,36);
+}
+
+h4 {
+	font-family: 'Englebert', sans-serif;
+	font-size: 22px;
+	color: rgb(69,85,96);
+	text-transform: uppercase;
+}
+
 p {
-	font-family: Arial, san-serif
-	font-size: 9px;
+	font-family: Arial, san-serif;
+	font-size: 16px;
 	line-height: 1.5em;
 	color: rgb(69,85,96);
 }
@@ -38,7 +41,29 @@ a {
 	text-decoration: none;
 	color: rgb(255,255,255);
 }
+	
 
-.important {
+.active {
 	color: rgb(245,128,36);
+}
+
+.bio {
+	font-size: 13px;
+	line-height: 1.5em;
+}
+
+li {
+	font-family: Arial, san-serif;
+	font-size: 14px;
+	line-height: 1.5em;
+	color: rgb(69,85,96);
+	list-style-type: circle;
+}
+
+.post {
+	font-style: italic;
+}
+
+.googlelink {
+	color: rgb(69,85,96)
 }
