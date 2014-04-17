@@ -86,6 +86,10 @@ p {
 	margin-right: auto;
 }
 
+.training {
+	height: 500px;
+}
+
 .personalpacking {
 	float: left;
 	width: 50%;
@@ -98,6 +102,11 @@ p {
 }
 
 .googledoc {
+}
+
+.photos {
+	height: 500px;
+}
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 30px;
